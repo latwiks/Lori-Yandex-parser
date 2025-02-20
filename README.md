@@ -30,6 +30,10 @@ pip install -r requirements.txt
 ```
 
 ### Запуск сервера
+Перед запуском создайте БД:
+```sh
+python create_db.py
+```
 Запустите сервер командой:
 ```sh
 python main.py
