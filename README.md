@@ -15,7 +15,7 @@
 - **Backend:** Flask, SQLite, asyncio, aiohttp.
 - **Парсинг:** BeautifulSoup, Selenium, requests.
 - **Frontend:** HTML, CSS, JavaScript.
-- **Форматы вывода:** OpenPyXL, CSV.
+- **Форматы вывода:** OpenPyXL (xlsx), CSV.
 
 ## Установка и запуск
 ### Клонирование репозитория и заход в папку:
